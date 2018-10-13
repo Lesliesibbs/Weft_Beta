@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>isManifestVerificationBypassed</key>
+	<true/>
+	<key>isShell</key>
+	<true/>
+	<key>manifestUrl</key>
+	<string>exp0e6c0a4a0ca74650a35c166b7f3baa3f://192.168.1.235:19000</string>
+	<key>releaseChannel</key>
+	<string>default</string>
+</dict>
+</plist>
